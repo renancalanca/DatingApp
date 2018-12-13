@@ -1,0 +1,1 @@
+Application developed in order to study .NET Core API and Angular v6
