@@ -1,1 +1,16 @@
 Application developed in order to study .NET Core API and Angular v6
+
+==========================Auth Module==========================
+Hash and Salting to save passwords on database
+
+==========================HTTP codes==========================
+401 unothorized
+
+==========================Auth Token==========================
+Json Web Tokens (JWT's)
+Structure: Header, Payload, secret 
+:Client: -> Send Username and Password
+:Server: -> Validate and sends back JWT
+:Client: -> Send JWT for Further request 
+:Server: -> Validates and sends back response
+

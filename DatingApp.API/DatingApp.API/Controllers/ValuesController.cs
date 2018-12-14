@@ -9,7 +9,10 @@ using Microsoft.EntityFrameworkCore;
 namespace DatingApp.API.Controllers
 {
     [Route("api/[controller]")]
+    //Validation and routing
     [ApiController]
+
+    //http response 
     public class ValuesController : ControllerBase
     {
         private DataContext _context;
