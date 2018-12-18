@@ -50,6 +50,7 @@ namespace DatingApp.API
             }
             else
             {
+                app.UseExceptionHandler();
                 //app.UseHsts();
             }
 

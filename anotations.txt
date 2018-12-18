@@ -16,3 +16,9 @@ Structure: Header, Payload, secret
 
 https://jwt.io
 
+==========================Angular==========================
+Reactive Form
+	->
+Template Form - more simple
+	-> Importar no app.module.ts no FormsModule
+	-> Html chamar assim #loginForm="ngForm"
